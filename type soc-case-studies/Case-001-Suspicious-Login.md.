@@ -1,0 +1,5 @@
+23 failed login attempts against a finance workstation from an external IP address, followed by one successful login.
+
+The user normally logs in from Scotland during office hours.
+The successful login happened at 2:14 a.m. from an IP address in another country.
+The account accessed the finance workstation immediately afterward.
